@@ -1,0 +1,11 @@
+// Change bootstrap theme
+$theme-colors: (
+  "primary": #1da1f2,
+);
+
+.App {
+  text-align: center;
+}
+
+// Import bootstrap scss
+@import "bootstrap/scss/bootstrap.scss";
